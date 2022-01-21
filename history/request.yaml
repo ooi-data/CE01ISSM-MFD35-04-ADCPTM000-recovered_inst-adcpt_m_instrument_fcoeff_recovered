@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE01ISSM-MFD35-04-ADCPTM000-recovered_inst-adcpt_m_instrument_fcoeff_recovered
-last_request: '2022-01-01T02:41:47.449516Z'
+last_request: '2022-01-21T17:57:08.075545Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSM-MFD35-04-ADCPTM000-recovered_inst-adcpt_m_instrument_fcoeff_recovered/main/history/response.json
 status: discontinued
